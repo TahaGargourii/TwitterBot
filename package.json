@@ -1,0 +1,27 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "school project",
+  "main": "index.js",
+  "scripts": {
+    "test": "testbot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TahaGargourii/TwitterBot.git"
+  },
+  "keywords": [
+    "testbot"
+  ],
+  "author": "Taha GARGOURI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TahaGargourii/TwitterBot/issues"
+  },
+  "homepage": "https://github.com/TahaGargourii/TwitterBot#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "dotenv": "^16.0.3",
+    "twitter-api-client": "^1.6.1"
+  }
+}
